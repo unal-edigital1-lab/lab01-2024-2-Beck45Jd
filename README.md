@@ -66,6 +66,7 @@ Sum1bcc_primitive
 ![Imagen de WhatsApp 2025-01-02 a las 18 20 50_5ea21cb8](https://github.com/user-attachments/assets/c40a4748-570f-49bd-b2cf-35ae51788a4d)
 
 Sum1bcc
+###
 ![Imagen de WhatsApp 2025-01-02 a las 18 28 29_8b435c32](https://github.com/user-attachments/assets/e02b3342-f4ce-42f7-947a-eecaa4b63a97)
 
 Como podemos ver en la simulación, los resultados son los esperados. Ambos modelos funcionan correctamente y arrojan resultados correctos que se pueden visualizar en la siguiente tabla de verdad:
