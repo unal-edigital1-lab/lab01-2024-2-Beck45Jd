@@ -5,7 +5,7 @@
 
 ### Sumador de 1 Bit
 
-####Entregable 1
+#### Entregable 1
 ```Verilog
 module sum1bcc_primitive (A, B, Ci,Cout,S);
   //Se definen las entradas
@@ -33,7 +33,7 @@ module sum1bcc_primitive (A, B, Ci,Cout,S);
 
 endmodule
 ```
-####Entregable 2
+#### Entregable 2
 ```Verilog
 module sum1bcc (A, B, Ci,Cout,S);
   //Definimos Entradas
@@ -60,7 +60,7 @@ Diferencias entre códigos:
 Para el primer modelo del sumador, se puede notar que usamos elementos como cables y compuertas lógicas para la operación que necesitamos. Mientras que el siguiente modelo se trabaja con una simplificación del problema, usando un bloque de sensibilidad completa (incluye todas las señales de entrada), que se ejecuta siempre que cambie cualquiera de las señales que afectan su comportamiento.
 
 
-####Entregable 3
+#### Entregable 3
 Sum1bcc_primitive
 ![Imagen de WhatsApp 2025-01-02 a las 18 20 50_5ea21cb8](https://github.com/user-attachments/assets/c40a4748-570f-49bd-b2cf-35ae51788a4d)
 
