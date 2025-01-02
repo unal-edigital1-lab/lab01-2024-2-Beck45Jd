@@ -61,7 +61,8 @@ Para el primer modelo del sumador, se puede notar que usamos elementos como cabl
 
 
 #### Entregable 3
-Sum1bcc_primitive
+Sum1bcc_primitive 
+###
 ![Imagen de WhatsApp 2025-01-02 a las 18 20 50_5ea21cb8](https://github.com/user-attachments/assets/c40a4748-570f-49bd-b2cf-35ae51788a4d)
 
 Sum1bcc
